@@ -1,2 +1,2 @@
-# University
+# University Project and Task
 collection of coding tasks
