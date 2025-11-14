@@ -1,1 +1,0 @@
-# Analisis Data Kategorik
