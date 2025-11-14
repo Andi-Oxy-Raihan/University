@@ -1,1 +1,1 @@
-*Analisis Data Kategori*
+# Analisis Data Kategorik
